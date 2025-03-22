@@ -1,5 +1,4 @@
 # Home_Sales- PySpark Analysis
-# leaflet-challenge
 
 ## Overview
 
